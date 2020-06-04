@@ -1,9 +1,11 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-subtitle: This is the components page subtitle.
+title: One Call Gets It Done
+featuredImage: 'https://ucarecdn.com/4f25b6cb-50f0-4cef-82a8-59ea2f59a9fd/'
+subtitle: >-
+  We are here to get you back into your home as quickly as possible and leave
+  your house better than new!
 section1: >-
   ## This is a container component
 
@@ -17,12 +19,15 @@ section1: >-
   vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
   bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
   vestibulum.
-section2: |-
+section2: >-
   ## You can use videos, images and text.
 
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+  <iframe
+  src="//player.vimeo.com/video/318325072?portrait=0&amp;byline=0&amp;title=0&amp;badge=0&amp;loop=1&amp;autopause=1&amp;api=1&amp;rel=0&amp;player_id=player_19_2079933526_2128976717&amp;color=a81010"
+  height="1600" width="900" frameborder="" class="av_vimeo_frame"
+  id="player_19_2079933526_2128976717" style="height: 179%; top:
+  -39.5%;"></iframe>
 video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
 videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
 videoTitle: 'Also background videos, with poster image & title overlay.'
