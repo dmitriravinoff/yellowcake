@@ -41,15 +41,15 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+  - alt: Construction
+    image: 'https://ucarecdn.com/ff0cc284-aafd-4c84-92ec-985e2132f698/'
+    title: Full Reconstruction
+  - alt: mitigaion
+    image: 'https://ucarecdn.com/0821a2a2-ae2a-4b81-9385-51ef5b8ee8ac/'
+    title: 'Mitigation '
+  - alt: remediation
+    image: 'https://ucarecdn.com/84a1f713-e502-415f-80fd-b50225114332/'
+    title: Remediation
 meta:
   description: This is a meta description.
   title: Components Page
